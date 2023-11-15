@@ -1,8 +1,7 @@
 # Финансовый менеджер Moneysafe
 
 ### Demo
-
-
+https://gergeorg.github.io/moneysafe/
 
 ### Used:
 
